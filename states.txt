@@ -1,5 +1,3 @@
-2 : 100
-3 : 50
-2 : 50
-4 : 50
-3 : 500
+User: 2. State: 50. For: 20630 minutes
+User: 3. State: 500. For: 20629 minutes
+User: 4. State: 50. For: 20629 minutes
